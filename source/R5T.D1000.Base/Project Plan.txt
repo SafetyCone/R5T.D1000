@@ -1,0 +1,3 @@
+R5T.D1000.Base - Base service definitions for Test service library..
+
+GOALS:
